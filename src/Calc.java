@@ -35,5 +35,6 @@ public class Calc {
                 System.out.println ("operator - ERROR");
                 break;
         }
+        Num.numAr ();
     }
 }
